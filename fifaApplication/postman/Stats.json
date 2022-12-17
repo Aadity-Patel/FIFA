@@ -1,0 +1,50 @@
+{
+  "info": {
+    "_postman_id": "4a2f15cb-8c84-4a24-9e64-9b125758f623",
+    "name": "statsPlayer",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "21291069"
+  },
+  "item": [
+    {
+      "name": "GetAllDetails",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "AddStat",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GetPlayerById",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GetPlayerByGamesPlayed",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GetPlayerByMinutes",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
